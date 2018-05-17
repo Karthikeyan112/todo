@@ -1,0 +1,16 @@
+@media screen and (min-width: 662px) {
+    .card-container {
+        margin-left: 14%;
+    }
+}
+
+@media screen and (min-width: 996px) {
+    .card-container {
+        margin-left: 25%;
+    }
+}
+@media screen and (min-width: 1249px) {
+    .card-container {
+        margin-left: 30%;
+    }
+}

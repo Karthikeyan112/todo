@@ -1,0 +1,25 @@
+
+.container {
+  max-width: 500px;
+}
+.example-full-width {
+  width: 90%;
+}
+input[type="checkbox"] {
+  font-size: 40px;
+  margin-right: 10px;
+}
+.completed {
+  text-decoration:line-through
+}
+.deleteButton {
+  position: absolute;
+  right: 0px;
+}
+
+.todoItem input {
+  min-width: 80%;
+}
+.todoItem button {
+  width: 20%;
+}
